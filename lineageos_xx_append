@@ -27,6 +27,7 @@ CONFIG_SCHED_TUNE=n
 CONFIG_SCHED_CORE_CTL=n
 ###########################################################
 # enable KernelSU + SuSFS 1.5.3
+CONFIG_KSU=y
 CONFIG_KSU_SUSFS=y
 CONFIG_KSU_SUSFS_SUS_PATH=y
 CONFIG_KSU_SUSFS_SUS_MOUNT=y
